@@ -1,0 +1,29 @@
+
+h1{
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+    font-size: 100px !important;
+    font-family: 'Courier New', Courier, monospace;
+}
+.card-block{
+    text-align: center;
+    font-size: 130%;
+    font-family: 'Courier New', Courier, monospace;
+    color: darkblue;
+    
+}
+.container{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+#cover{
+    background-image: url('Bibliothe.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 50px 50px ;
+
+
+}
